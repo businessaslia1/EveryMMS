@@ -1,1 +1,2 @@
 # EveryMMS
+CNAME add
